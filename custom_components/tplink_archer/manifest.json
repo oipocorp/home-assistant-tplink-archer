@@ -7,6 +7,6 @@
     "iot_class": "local_polling",
     "issue_tracker": "https://github.com/rodrigobutta/home-assistant-tplink-archer/issues",
     "requirements": ["tplinkrouterc6u==1.2.3"],
-    "version": "1.1.1"
+    "version": "1.1.2"
   }
   
