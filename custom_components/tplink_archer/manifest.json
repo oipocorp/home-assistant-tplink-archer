@@ -1,0 +1,12 @@
+{
+    "domain": "tplink_archer",
+    "name": "TP-Link Archer",
+    "codeowners": ["@rodrigobutta"],
+    "config_flow": true,
+    "documentation": "https://github.com/rodrigobutta/home-assistant-tplink-archer",
+    "iot_class": "local_polling",
+    "issue_tracker": "https://github.com/rodrigobutta/home-assistant-tplink-archer/issues",
+    "requirements": ["tplinkrouterc6u==1.2.3"],
+    "version": "1.1.1"
+  }
+  
